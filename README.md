@@ -3,4 +3,4 @@
 под raylib
 
 
-https://raw.githubusercontent.com/GuvaCode/CrazzySnow/main/snow.gif
+![image]https://raw.githubusercontent.com/GuvaCode/CrazzySnow/main/snow.gif
